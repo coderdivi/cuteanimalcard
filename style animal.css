@@ -380,12 +380,12 @@ div .dot1 {
 @media (max-width:750px) {
 
   .slider .slide img {
-    height: 51%;
+    height: 58%;
     width: 97%;
   }
 
   .slide-text {
-    top: 52%;
+    top: 59%;
     width: 97%;
   }
   .wrapper h1 {
